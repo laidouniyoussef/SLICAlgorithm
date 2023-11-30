@@ -15,5 +15,3 @@ This repository contains an implementation of the SLIC (Simple Linear Iterative 
 - **Execute** the script to see the SLIC algorithm in action on your images.
 
 
-
-yousseflaidouni
