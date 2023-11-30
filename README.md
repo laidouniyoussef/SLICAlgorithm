@@ -8,7 +8,7 @@ This repository contains an implementation of the SLIC (Simple Linear Iterative 
 
 - **Dependencies:** The implementation relies on OpenCV and NumPy for image processing and numerical operations.
 
-## Usage
+## How to Use
 
 - **Open**  the Jupyter notebook or Python script in your preferred environment.
 - **Customize** the image_path, k, and m parameters in the main function for your use case.
